@@ -47,7 +47,7 @@ function PESE() {
               }
             }}
           >
-            <source src={`${process.env.PUBLIC_URL}/videos/your-video-name.mp4`} type="video/mp4" />
+            <source src={`${process.env.PUBLIC_URL}/videos/Sixer.mp4`} type="video/mp4" />
             Your browser does not support the video tag.
           </Box>
 
@@ -67,7 +67,7 @@ function PESE() {
               }
             }}
           >
-            <source src={`${process.env.PUBLIC_URL}/videos/your-video-name.mp4`} type="video/mp4" />
+            <source src={`${process.env.PUBLIC_URL}/videos/Fiver.mp4`} type="video/mp4" />
             Your browser does not support the video tag.
           </Box>
         </Box>

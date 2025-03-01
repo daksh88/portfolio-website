@@ -13,7 +13,6 @@ import MenuIcon from '@mui/icons-material/Menu';
 import { motion, AnimatePresence } from 'framer-motion';
 
 
-// Lazy load CardMedia component
 const CardMedia = React.lazy(() => import('@mui/material/CardMedia'));
 
 const preloadImage = (src) => {
